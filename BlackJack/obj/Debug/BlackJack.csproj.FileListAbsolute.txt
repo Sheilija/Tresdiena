@@ -1,0 +1,6 @@
+C:\Users\pc\source\repos\Tresdiena\BlackJack\obj\Debug\BlackJack.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Tresdiena\BlackJack\bin\Debug\BlackJack.exe.config
+C:\Users\pc\source\repos\Tresdiena\BlackJack\bin\Debug\BlackJack.exe
+C:\Users\pc\source\repos\Tresdiena\BlackJack\bin\Debug\BlackJack.pdb
+C:\Users\pc\source\repos\Tresdiena\BlackJack\obj\Debug\BlackJack.exe
+C:\Users\pc\source\repos\Tresdiena\BlackJack\obj\Debug\BlackJack.pdb

@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\Tresdiena\Tresdiena\obj\Debug\Tresdiena.csprojResolveAssemblyReference.cache
+C:\Users\pc\source\repos\Tresdiena\Tresdiena\obj\Debug\Tresdiena.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Tresdiena\Tresdiena\bin\Debug\Tresdiena.exe.config
+C:\Users\pc\source\repos\Tresdiena\Tresdiena\bin\Debug\Tresdiena.exe
+C:\Users\pc\source\repos\Tresdiena\Tresdiena\bin\Debug\Tresdiena.pdb
+C:\Users\pc\source\repos\Tresdiena\Tresdiena\obj\Debug\Tresdiena.exe
+C:\Users\pc\source\repos\Tresdiena\Tresdiena\obj\Debug\Tresdiena.pdb
